@@ -1,1 +1,1 @@
-# ECommercePayments_MobileApiumAutomatiom
+# ECommercePayments-MobileAppiumAutomatiom
